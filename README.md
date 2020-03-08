@@ -31,6 +31,8 @@
 
 + better ui...
 
++ pagination or infinite scroll
+
 + keyboard selection
 
 + well-typed context
